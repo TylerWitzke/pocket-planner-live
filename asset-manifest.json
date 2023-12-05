@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pocket-planner-live/static/css/main.93b39dc7.css",
+    "main.js": "/pocket-planner-live/static/js/main.1e3a750e.js",
+    "static/js/787.4364be93.chunk.js": "/pocket-planner-live/static/js/787.4364be93.chunk.js",
+    "static/media/ex_machina.jpg": "/pocket-planner-live/static/media/ex_machina.f249c7bacef66abd5e1d.jpg",
+    "static/media/email_icon.png": "/pocket-planner-live/static/media/email_icon.52cafc53403ad83e47c4.png",
+    "static/media/calgary_stampeders.png": "/pocket-planner-live/static/media/calgary_stampeders.7756d6d446cda305d1a5.png",
+    "static/media/calgary_flames.png": "/pocket-planner-live/static/media/calgary_flames.dc776520aa662f1e7950.png",
+    "static/media/calgaryflamescanucks.png": "/pocket-planner-live/static/media/calgaryflamescanucks.85db17405e5141b8a5cd.png",
+    "static/media/password_icon.png": "/pocket-planner-live/static/media/password_icon.f02bdf7569e9c9d08b5a.png",
+    "static/media/calaway_attraction.jpg": "/pocket-planner-live/static/media/calaway_attraction.cdf518d93a86b0e07f53.jpg",
+    "static/media/calgary_hitmen_event.png": "/pocket-planner-live/static/media/calgary_hitmen_event.daa7a8e3a5936b287cbb.png",
+    "static/media/morgan_wallen_event.jpg": "/pocket-planner-live/static/media/morgan_wallen_event.92896c6efb6302a9c1da.jpg",
+    "static/media/pocket-planner.png": "/pocket-planner-live/static/media/pocket-planner.2d10ceb731e05a3f123a.png",
+    "static/media/heritage_park_attraction.jpg": "/pocket-planner-live/static/media/heritage_park_attraction.ae5147e0c6290dacc4c8.jpg",
+    "static/media/olympic_plaza_attraction.jpg": "/pocket-planner-live/static/media/olympic_plaza_attraction.5336eb4cff0d8ffca96c.jpg",
+    "index.html": "/pocket-planner-live/index.html",
+    "main.93b39dc7.css.map": "/pocket-planner-live/static/css/main.93b39dc7.css.map",
+    "main.1e3a750e.js.map": "/pocket-planner-live/static/js/main.1e3a750e.js.map",
+    "787.4364be93.chunk.js.map": "/pocket-planner-live/static/js/787.4364be93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b39dc7.css",
+    "static/js/main.1e3a750e.js"
+  ]
+}
