@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pocket-planner-live/static/css/main.93b39dc7.css",
-    "main.js": "/pocket-planner-live/static/js/main.1e3a750e.js",
+    "main.js": "/pocket-planner-live/static/js/main.a2e3c701.js",
     "static/js/787.4364be93.chunk.js": "/pocket-planner-live/static/js/787.4364be93.chunk.js",
     "static/media/ex_machina.jpg": "/pocket-planner-live/static/media/ex_machina.f249c7bacef66abd5e1d.jpg",
     "static/media/email_icon.png": "/pocket-planner-live/static/media/email_icon.52cafc53403ad83e47c4.png",
@@ -17,11 +17,11 @@
     "static/media/olympic_plaza_attraction.jpg": "/pocket-planner-live/static/media/olympic_plaza_attraction.5336eb4cff0d8ffca96c.jpg",
     "index.html": "/pocket-planner-live/index.html",
     "main.93b39dc7.css.map": "/pocket-planner-live/static/css/main.93b39dc7.css.map",
-    "main.1e3a750e.js.map": "/pocket-planner-live/static/js/main.1e3a750e.js.map",
+    "main.a2e3c701.js.map": "/pocket-planner-live/static/js/main.a2e3c701.js.map",
     "787.4364be93.chunk.js.map": "/pocket-planner-live/static/js/787.4364be93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93b39dc7.css",
-    "static/js/main.1e3a750e.js"
+    "static/js/main.a2e3c701.js"
   ]
 }
