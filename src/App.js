@@ -43,7 +43,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/pocket-planner-live">
     <Routes>
       <Route path="/" element={<LoginSignup />} />
       <Route path="/signup" element={<Signup />} />
